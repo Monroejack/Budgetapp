@@ -1,0 +1,29 @@
+body {
+    font-family: Roboto;
+}
+.logo {
+    background-color: green !important;
+    font-size: 0 !important;
+}
+.logo:before {
+    content:'BUDGET APP';
+    font-size: 18px !important;
+    font-style: bold;
+    font-family: Barlow !important;
+}
+.navbar.navbar-static-top {
+    background-color: green !important;
+}
+.main-sidebar {
+ background-color: lightgray !important;
+}
+.box-header {
+ background-color: lightgray !important;
+    color: black !important;
+}
+.box-primary {
+ border-color: black !important;
+}
+.content-wrapper {
+ background-color: white !important;
+}
